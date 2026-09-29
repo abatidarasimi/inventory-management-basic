@@ -21,6 +21,7 @@ Main Functions:
 5.Manage stock, price, and other details for each SKU.
 
 Activities:
+
 1.Create a parent product, e.g., Air Max 90.
 
 2.Add attributes such as Color and Size.
