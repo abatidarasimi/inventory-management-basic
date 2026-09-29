@@ -1,6 +1,6 @@
 ITEM IDENTIFICATION (SKU MANAGEMENT) AND CORE STORE KEEPING
 
-Feature 1- SKU Creation and Produt Identification
+Feature 1- SKU Creation and Product Identification
 
 Description:
 The system assigns a unique Stock Keeping Unit (SKU) to each product or product variant. It stores identifying information such as product name, category, brand, size, and other relevant details.
